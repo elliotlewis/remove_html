@@ -22,7 +22,7 @@ Requirements
 
 Description
 -----------
-Expression engine Add-on to remove all HTML tags from text. Specifically it removes any text in the format <tag> or </tag>. So any text in that format will be removed even if it's not a valid HTML tag.
+Expression engine Add-on to remove all HTML tags from text. Specifically it removes any text in the format `<tag>` or `</tag>`. So any text in that format will be removed even if it's not a valid HTML tag.
 
 
 Usage
